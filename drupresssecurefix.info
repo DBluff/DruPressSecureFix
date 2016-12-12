@@ -1,0 +1,3 @@
+name = ACC Secure Fix
+description = Module Designed to Fix the secure vs. insecure areas of the site resulting from our multi-system architecture (Drupal & Wordpress). Base code taken from https://www.drupal.org/node/1670822 Attribution: bachbach
+core = 7.x
